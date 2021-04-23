@@ -11,3 +11,4 @@ Recursos previstos:
 * Análise multivariada
 * Modelagem estatística
 
+
